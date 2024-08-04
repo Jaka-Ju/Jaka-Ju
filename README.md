@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Jaka-Ju
-- 👀 I’m interested in cybersecurity
+- 👋 Hi, I’m Julian
+- 👀 I’m interested in cybersecurity,Development
 - 🌱 I’m currently learning c c++ c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- im Not an Expert in anything 
+
 
 <!---
 Jaka-Ju/Jaka-Ju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
