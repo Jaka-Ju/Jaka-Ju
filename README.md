@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian
-- 👀 I’m interested in cybersecurity,Arduino-Development
+- 👀 I’m interested in cybersecurity,microcontrollers
 - 🌱 I’m currently learning c c++ c#
 - im Not an Expert in anything 
 
